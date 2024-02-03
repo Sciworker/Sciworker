@@ -1,7 +1,7 @@
 <h1>About me</h1>
 
 <p>I am a beginner developer.
-My favorite language is Python.</p>
+My favorite language is Python, JS.</p>
 <p>Now I study the following courses:</p>
 <ul>
   <li>https://stepik.org/course/217</li>
